@@ -1,0 +1,9 @@
+[submodule "bench"]
+	path = bench
+	url = https://github.com/snu-csl/ForestDB-Bench/
+[submodule "rocksdb"]
+	path = rocksdb
+	url = https://github.com/snu-csl/RocksDB-CSD
+[submodule "linux"]
+	path = linux
+	url = https://github.com/snu-csl/linux_for_flax
